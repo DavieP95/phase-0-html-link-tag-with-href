@@ -4,14 +4,17 @@
     linearGradient
 
 
-}
+ }
 
     body{
         background: linear-gradient(
-            10deg,
+            30deg,
             rgb(240, 73, 73),
             rgb(16, 97, 129)
-        );
+        ); 
+        text-align: center;
+
+        
         
     
 }
